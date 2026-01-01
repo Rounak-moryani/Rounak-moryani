@@ -1,6 +1,45 @@
-# 💫 About Me:
-i am bca final year student<br>im looking to collaborate on data science projects.<br>im currently learning machine learning concepts.<br>you can ask me about the uploaded projects.<br>
+# Hi 👋, I'm Rounak Moryani
 
+🎓 **BCA Student | Aspiring Data Scientist | Data Analysis & Machine Learning Enthusiast**
+
+I’m a passionate and analytical learner with a strong interest in **data-driven decision making** and **machine learning**. Currently pursuing my **Bachelor of Computer Applications (BCA)**, I enjoy working with data, uncovering insights, and building models that solve real-world problems.
+
+---
+
+## 🚀 About Me
+- 📊 Aspiring **Data Scientist** with a strong foundation in data analysis
+- 🐍 Proficient in **Python** for data manipulation and visualization
+- 🤖 Interested in **Machine Learning** and predictive modeling
+- 📈 Skilled in transforming raw data into meaningful insights
+- 🌱 Continuously learning advanced ML techniques and real-world applications
+
+---
+
+## 🧩 Technical Skills
+
+### 🔹 Programming & Query Languages
+- Python  
+- SQL  
+
+### 🔹 Data Analysis & Visualization
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+
+### 🔹 Machine Learning
+- Scikit-learn (sklearn)  
+- Supervised & Unsupervised Learning  
+- Model Evaluation & Feature Engineering  
+
+### 🔹 Business Intelligence
+- Power BI  
+- Data Cleaning & Dashboard Creation  
+
+### 🔹 Tools & Platforms
+- Jupyter Notebook  
+- VS Code  
+- Git & GitHub  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rounak_moryani_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rounak Moryani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rounakmoryani88@gmail.com) 
